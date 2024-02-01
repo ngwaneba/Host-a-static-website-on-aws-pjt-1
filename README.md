@@ -1,4 +1,6 @@
-![Alt text]{/Host_a_Static_Website_on_AWS.png}
+![ALT text](/Host_a_Static_Website_on_AWS.png)
+
+
 # Hosting a Static Website on AWS
 
 This DevOps project involves hosting a static HTML web app on AWS, leveraging various resources and best practices for scalability, reliability, and security. Below is an overview of the project, along with the key steps and configurations.
